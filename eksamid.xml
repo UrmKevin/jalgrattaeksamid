@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eksamid>
+  <id id="1">
+    <aeg>00:32<eksam><koht>ww</koht><eksamineerija>www</eksamineerija></eksam><valik>1,5 tundi</valik></aeg>
+  </id>
+  <id id="2">
+    <aeg>02:00<eksam><koht>Tallinn</koht><eksamineerija>Danila</eksamineerija></eksam><valik>4 tundi</valik></aeg>
+  </id>
+</eksamid>
